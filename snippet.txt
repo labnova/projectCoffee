@@ -1,0 +1,3 @@
+gulp.src(['components/scripts/scriptOne.js',
+			  'components/scripts/scriptTwo.js'])
+-------
